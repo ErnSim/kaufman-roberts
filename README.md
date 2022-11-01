@@ -6,7 +6,7 @@ Wraz ze wzrostem współczynnika ***V***, oznaczającego pojemność wiązki w k
 
 ### Wyniki
 
-- Dla ***V = 3***, widzimy że prawdopodobieństwo wystąpienia bolkady dla klasy pierwszej i drugiej to kolejno około 14,2% i 51,6% 
+- Dla ***V = 3***, widzimy że prawdopodobieństwo wystąpienia bolkady dla klasy pierwszej i drugiej to kolejno około 14,2% i 51,6%
 ![wyniki dla V3](/img/V3.png)
 
 - Dla przypadku, gdzie ***V = 6*** widzimy znaczący spadek prawdopodobieństwa blokady w kanale. Odpowiednio dla klasy pierwszej to 5,3% oraz dla drugiej 10,8% 
